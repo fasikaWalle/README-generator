@@ -23,7 +23,7 @@ function writeToFile(fileName, data) {
 
 // TODO: Create a function to initialize app
 function createReadMe() {
-    console.log(figlet.textSync('README', {
+    console.log(figlet.textSync('README',{
         horizontalLayout: 'default',
         verticalLayout: 'default',
         width: 'full',

@@ -25,7 +25,7 @@ First you have to make sure that you have node js in your system if you don't ha
 - write npm install in the terminal and hit enter to install all the module dependencies that this application uses
 - Type node index.js to run the file
 - Enter the neccesary information about your project and finally your README file is generated in utilis folder.
-  [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/1YKhjsSwSqq6GMWev_4xAgNVELL29myJE/view)
+  [![Watch the video](./Develop/Assets/images/screenshot2.png)](https://drive.google.com/file/d/1YKhjsSwSqq6GMWev_4xAgNVELL29myJE/view)
   ![project image](./Develop/Assets/images/screenshot.png)
 
 ## Licence
@@ -34,7 +34,7 @@ This Licence belongs to Apache
 
 ## Features
 
-provide table of content based on your choice
+Provide table of content based on your choice
 
 ## Tests
 
