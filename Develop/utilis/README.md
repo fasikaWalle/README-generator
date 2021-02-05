@@ -4,31 +4,25 @@
 
 ## Description
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+This command line application is used to create README files by asking a user for inputs information about the project which later display in the README file.This application use inquirer module for the prompt,figlet and colors module for coloring and decorating the text.
 
 ## Table of Content
 
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Credits](#Credits)
 - [Licence](#Licence)
 - [Features](#Features)
-- [contributing](#contributing)
 - [Tests](#Tests)
 
 ## Installation
 
-`Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`
+`npm install`
 
 ## Usage
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+Clone the project and install the neccessary dependencies inorder to run the application
 
 ![project image](../Assets/images/screenshot.png)
-
-## Credits
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
 ## Licence
 
@@ -36,15 +30,11 @@ This Licence belongs to Apache
 
 ## Features
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
-## Contributing
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+provide table of content based on your choice
 
 ## Tests
 
-`Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`
+`node index.js`
 
 ## Questions
 
