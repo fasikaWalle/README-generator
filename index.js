@@ -182,7 +182,7 @@ function createReadMe() {
     {
         type:'input',
         name: 'screenshot',
-        message: 'Add your project screenshot in Assets/images/ folder and insert the name of the screenshot'.yellow,
+        message: 'Add your project screenshot in Assets/images/ folder and insert the name of the screenshot',
         validate: function (input) {
             if (input) {
                 return true

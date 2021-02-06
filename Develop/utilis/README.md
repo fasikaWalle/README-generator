@@ -19,7 +19,7 @@ text ever since the 1500s, when an unknown printer took a galley of type and scr
 text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.   
 ![project image](../Assets/images/screenshot.png)
 ## Credits
-berhanu A
+text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 
  ## Licence
@@ -38,5 +38,5 @@ text ever since the 1500s, when an unknown printer took a galley of type and scr
 ## Questions
 If you have any question about the repo, open an issue or contact me directly at [fasikawalle](https://github.com/fasikawalle/)
 
-If you want to reach me for further questions please contact me through fasika@gmail.com
+If you want to reach me for further questions please contact me through fasikabini12@mail.com
     
