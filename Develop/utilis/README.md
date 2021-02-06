@@ -1,43 +1,39 @@
-# README Generator
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
-
+# dfss
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
 
-This command line application is used to create README files by asking a user for inputs information about the project which later display in the README file.This application use inquirer module for the prompt,figlet and colors module for coloring and decorating the text.
-
+sdf
 ## Table of Content
-
-- [Installation](#Installation)
-- [Usage](#Usage)
-- [Licence](#Licence)
-- [Features](#Features)
-- [Tests](#Tests)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Licence](#Licence)
+* [Features](#Features)
+* [contributing](#contributing)
+* [Tests](#Tests)
 
 ## Installation
-
-`npm install`
-
+```fdf```  
 ## Usage
-
-Clone the project and install the neccessary dependencies inorder to run the application
-
+df   
 ![project image](../Assets/images/screenshot.png)
 
-## Licence
 
-This Licence belongs to Apache
+ ## Licence
+This Licence belongs to MIT 
+ 
+
 
 ## Features
+df  
 
-provide table of content based on your choice
-
+## Contributing
+df
 ## Tests
-
-`node index.js`
+```sf```  
 
 ## Questions
+If you have any question about the repo, open an issue or contact me directly at [fasika](https://github.com/fasika/)
 
-If you have any question about the repo, open an issue or contact me directly at [fasikaWalle](https://github.com/fasikaWalle/)
-
-If you want to reach me for further questions please contact me through fasikabini12@gmail.com
+If you want to reach me for further questions please contact me through h@gmail.com
+    

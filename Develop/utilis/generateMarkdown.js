@@ -84,13 +84,7 @@ ${contributing}`
     } else {
         contributing = ''
     }
-    if (screenshot) {
-        screenshot = `
-![project image](../Assets/images/screenshot.png)
-`
-    } else {
-        screenshot = ''
-    }
+  
     return `
 # ${Title}
 ${renderLicenseBadge(Licence)}
@@ -102,7 +96,7 @@ ${TableOfContent}
 \`\`\`${Installation}\`\`\`  
 ## Usage
 ${Usage}   
-${screenshot}
+![project image](../Assets/images/${screenshot})
 ${Credits}
 ${renderLicenseSection(Licence)} 
 

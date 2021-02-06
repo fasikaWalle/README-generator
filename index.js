@@ -90,7 +90,7 @@ function createReadMe() {
     {
         type: 'input',
         name: 'Installation',
-        message: 'What command should be run to run to install dependencies?',
+        message: 'What command should be run to to install dependencies?',
         validate: function (input) {
             if (input) {
                 return true
@@ -137,20 +137,14 @@ function createReadMe() {
         default: 'MIT'
     },
     {
-        type: 'confirm',
-        name: 'FeaturesConfirm',
-        message: 'Do you want to add features? ',
-        default: false
-    },
-
-    {
         type: 'input',
         name: 'Features',
-        message: 'Please list features of your project',
-        when: function (data) {
-            if (data.FeaturesConfirm) {
+        message: 'Please list all the features of your project',
+        validate: function (input) {
+            if (input) {
                 return true
             } else {
+                console.log('please list all the feature of your project'.red)
                 return false
             }
         }
@@ -184,19 +178,16 @@ function createReadMe() {
                 return false
             }
         }
-    }, {
-        type: 'confirm',
-        name: 'screenshot',
-        message: 'Do you want to include screenshot of your project?',
-        default: false
     },
     {
-        name: 'image',
-        message: 'Add your project screenshot in(Assets/images/ and rename it as screenshot.png)'.yellow,
-        when: function (data) {
-            if (data.screenshot) {
+        type:'input',
+        name: 'screenshot',
+        message: 'Add your project screenshot in Assets/images/ folder and insert the name of the screenshot'.yellow,
+        validate: function (input) {
+            if (input) {
                 return true
             } else {
+                console.log('please provide the name of the screenshot'.red)
                 return false
             }
         }
