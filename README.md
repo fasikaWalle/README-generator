@@ -26,7 +26,7 @@ First you have to make sure that you have node js in your system if you don't ha
 - Type node index.js to run the file
 - Enter the neccesary information about your project and finally your README file is generated in utilis folder.
   ![project image](./Develop/Assets/images/screenshot.png)
-- video link: [![README Generator video]](https://drive.google.com/file/d/1Mwu2kuhrNbzNA6ylHVJ0uI3C60v6WR83/view)
+- video link: [![README Generator video]](https://drive.google.com/file/d/1YWK4pC9C06mLRcX309pKiyrjxcNTv2AO/view)
 
 ## Licence
 
